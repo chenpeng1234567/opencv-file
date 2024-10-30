@@ -1,0 +1,4 @@
+/home/cp/opencv file (copy)/透视变换2/build/CMakeFiles/rebuild_cache.dir
+/home/cp/opencv file (copy)/透视变换2/build/CMakeFiles/edit_cache.dir
+/home/cp/opencv file (copy)/透视变换2/build/CMakeFiles/main.dir
+/home/cp/opencv file (copy)/透视变换2/build/CMakeFiles/change.dir

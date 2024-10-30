@@ -1,0 +1,4 @@
+/home/cp/opencv file (copy)/show_color/build/CMakeFiles/rebuild_cache.dir
+/home/cp/opencv file (copy)/show_color/build/CMakeFiles/edit_cache.dir
+/home/cp/opencv file (copy)/show_color/build/CMakeFiles/main.dir
+/home/cp/opencv file (copy)/show_color/build/CMakeFiles/show_img.dir
